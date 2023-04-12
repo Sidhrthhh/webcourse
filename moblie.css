@@ -1,0 +1,21 @@
+@media (min-width:400px) and (max-width:896px)  {
+    #container-1_heading {
+        margin-left: 28px;
+        width: 419px
+    }
+    #container-1>p{
+        width: 443px;
+    }
+   
+    iframe {
+        margin-left: -31px;
+        width: 500px;
+    }
+    .enroll {
+        width: 227%
+    }
+    .box>h1 {
+        width:573px;
+    }
+
+}
